@@ -7,6 +7,7 @@ import Services from './components/services/Services'
 import Portfolio from './components/portfolio/Portfolio'
 import Contact from './components/contact/Contact'
 import Testimoni from './components/testimoni/Testimoni'
+import Footer from './components/footer/Footer'
 
 const App = () => {
   return (
@@ -18,7 +19,8 @@ const App = () => {
       <Services />
       <Portfolio />
       <Testimoni />
-      <Contact/>
+      <Contact />
+      <Footer/>
     </>
   )
 }
