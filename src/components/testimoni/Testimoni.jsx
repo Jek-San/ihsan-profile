@@ -1,10 +1,8 @@
-import React from 'react'
-import './Testimoni.css'
+import React from "react"
+import "./Testimoni.css"
 
 const Testimoni = () => {
-  return (
-    <div>Testimoni</div>
-  )
+  return <section id="testimoni">Testimoni</section>
 }
 
 export default Testimoni
