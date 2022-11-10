@@ -36,10 +36,14 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores
-            repudiandae aperiam, neque consequuntur iusto eveniet in aspernatur
-            veritatis quis eaque placeat tempora repellat ipsa omnis quibusdam
-            minus totam doloremque consectetur.
+            Hi, I’m Ihsan! I'm a web developer experience in web-developments.
+            In a nutshell, I create websites that right now still in
+            development. I manage everything from website navigation and layout,
+            web hosting and security architecture. Even though it's still using
+            free hosting like github and heroku. My expertise lies within
+            front-end web apps, and the main languages in my tech stack are
+            JavaScript, React, and of course HTML/CSS. I’m a lifelong learner
+            and love to read, run, and nd new bubble tea shops anywhere.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
