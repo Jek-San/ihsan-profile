@@ -43,7 +43,7 @@ const About = () => {
             free hosting like github and heroku. My expertise lies within
             front-end web apps, and the main languages in my tech stack are
             JavaScript, React, and of course HTML/CSS. I’m a lifelong learner
-            and love to read, run, and nd new bubble tea shops anywhere.
+            and love to read, run, and find new bubble tea shops anywhere.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
