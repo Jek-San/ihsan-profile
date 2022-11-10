@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/ihsan-profile/static/css/main.209a4a0e.css",
-    "main.js": "/ihsan-profile/static/js/main.c530d000.js",
+    "main.js": "/ihsan-profile/static/js/main.ff73f676.js",
     "static/media/me-about.jpg": "/ihsan-profile/static/media/me-about.454ec14b651c27ddbbb3.jpg",
     "static/media/me.png": "/ihsan-profile/static/media/me.dac6ad86dc9b9652fdb7.png",
-    "static/media/cv.pdf": "/ihsan-profile/static/media/cv.dc6047e6d51a58ff3302.pdf",
+    "static/media/cv.pdf": "/ihsan-profile/static/media/cv.9d10e2d1f04c4580b476.pdf",
     "static/media/portfolio5.png": "/ihsan-profile/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/portfolio2.jpg": "/ihsan-profile/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio6.jpg": "/ihsan-profile/static/media/portfolio6.72d1107e313049cf15a7.jpg",
@@ -13,10 +13,10 @@
     "static/media/portfolio4.jpg": "/ihsan-profile/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/ihsan-profile/index.html",
     "main.209a4a0e.css.map": "/ihsan-profile/static/css/main.209a4a0e.css.map",
-    "main.c530d000.js.map": "/ihsan-profile/static/js/main.c530d000.js.map"
+    "main.ff73f676.js.map": "/ihsan-profile/static/js/main.ff73f676.js.map"
   },
   "entrypoints": [
     "static/css/main.209a4a0e.css",
-    "static/js/main.c530d000.js"
+    "static/js/main.ff73f676.js"
   ]
 }
