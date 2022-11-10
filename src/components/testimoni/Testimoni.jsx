@@ -48,7 +48,7 @@ const Testimoni = () => {
       <Swiper
         modules={[Pagination]}
         spaceBetween={40}
-        slidesPerView={3}
+        slidesPerView={1}
         pagination={{ clickable: true }}
         onSwiper={(swiper) => console.log(swiper)}
         onSlideChange={() => console.log("slide change")}
